@@ -38,4 +38,15 @@ personal-trainer-site/
 ├── images/
 └── README.md
 
+## 👤 Author
 
+**Stanislav Vasilkovski**  
+Freelancer  
+[GitHub Profile](https://github.com/vasilkovskis)  
+[Email](mailto:cvasilkovski@gmail.com)
+
+---
+
+## 🪪 License
+
+This project is open-source for educational and freelance portfolio use. For commercial reuse, please contact the author.
